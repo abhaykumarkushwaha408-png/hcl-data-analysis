@@ -1,0 +1,201 @@
+﻿Student_ID,Full_Name,Gender,Age,Hours_Studied_Per_Day,Attendance_Pct,Previous_Exam_Score,Sleep_Hours,Extracurricular_Activities,Internet_Access,Parental_Education,Tutoring_Sessions_Per_Month,Final_Exam_Score
+STU1000,Rohan Malhotra,Male,18,4.6,78.8,65.6,5.6,No, Yes ,Master's,4,74.6
+STU1001,AARAV REDDY,Female,18, 3.2 ,90.6,61.6,5.9,No,NO,High School,0,66.3
+STU1002,Ayaan Patel,Female,17,8.8,100.0,52.8,6.8,No,No,Bachelor's,1,85.1
+STU1003,Arjun Malhotra,Female,15,5.8,82.9,43.2,six,No,Yes,Bachelor's,0,66.4
+stu1004,  Kabir Agarwal  ,F,18,0.5,N/A,80.3,8.7,Yes,Yes,?,0,65.4
+STU1005,Aditya Iyer,Male,18,4.9,65.4,69.1,5.6,Yes,Yes,none,5,missing
+STU1006,Myra Verma,Female ,16,3.2,61.6,48.7,8.0,n,Yes,Master's,2,56.5
+STU1007,Aarav Gupta,Female,18,6.2,81.3,48.6,6.5,Yes,Yes,High School,2,75.3
+STU1008,Reyansh Patel,Female,18,2.9,86.6,63.0,6.7,No,No,Bachelor's,2,79.0
+STU1009,anika menon,Female,16,4.3 hrs,81.6,93.0,N/A,No,Yes,High School,1,83.7
+stu1010,Aarav Agarwal,Male,17,5.5,57.2,missing,5.5,No,Yes,High School,0,57.4
+STU1011,Reyansh Agarwal,m,18,6.2,?,45.5,7.3,No,No,High School,0,67.3
+STU1012,Myra Patel,Female,16,2.1,66.3,64.3,7.0,No,Yes,None,2,69.9
+STU1013,Aadhya Iyer,Male,15,missing,90.0,63.9,7.4,1,Yes,Master's,2,85.4
+STU1014,Krishna Sharma,Male,17,3.6,86.4,27.5,seven,No,Yes,HS,3,54.3
+STU1015,Rahul Mehta,Male,15,3.2,70.7,67.2,9.7,YES,NO,Bachelor's,2,76.1
+STU1016,Neha Roy,Male,15,8.0,75.8,64.5,6.0,Yes,Yes,High School,0,80.1
+STU1017,Diya Reddy,Female,16,5.3,69.3,?,6.2,No,No,Masters,0,75.9
+STU1018,Arjun Joshi,male,18,2.0,81.2,95.7,6.1,0,Yes,Bachelor's,2,93.4
+STU1019,Rahul Singh,Male,16,6.3,?,84.9,6.1,Yes,Yes,Master's,2,86.7
+STU1020,Vihaan Gupta, female,16, 8.7 ,70.2,64.0,6.0,No,Yes,High School,1,85.4
+STU1021,Pari Malhotra,Male,16,6.6,88.0,51.4,8.2,YES,Yes,Bachelor's,3,83.9
+STU1022,Ananya Kumar,Male,16,1.5,75.6,98.0,8.5,No,Yes,M.Sc,0,84.0
+STU1023,Kavya Reddy,Male,17,3.5,72.5%,68.9,null,Yes,Yes,N/A,1,71.0
+STU1024,Sneha Verma,Male,18,7.0,80.7,68.2,5.8,No,Yes,Master's,2,86.0
+STU1025,Priya Chopra,Female,15,3.1,69.6,67.6,,No,Yes,Bachelor's,1,67.6
+STU1026,Navya Malhotra,Male,15,5.4,75.4,71.0,6.1,Yes,Yes,?,2,81.0
+STU1027,Nidhi Das,Male,18,6.0,67.6,65.8,7.6,Yes,Yes,Bachelor's,1,76.0
+STU1028,Aditya Agarwal,m,15,2.6,100.0,59.4,7.0,No,YES,Bachelor's,0,72.5
+STU1029,Ishaan Menon,MALE,18,4.4,82.4,59.8,5.0,Yes,Yes,Master's,1,68.9
+STU1030,Amit Kumar,Female,15,0.5,73.6,67.5,8.7,No,Yes,Master's,1,65.1
+STU1031,Angel Joshi,Male,16,2.5,84.6,59.8,9.0,No,No,None,2,68.8
+STU1032,Neha Gupta,Male,15,4.0,80.7,57.3,6.1, Yes ,Yes,Master's,4,78.5
+STU1033,Vivaan Patel,m,18,2.0,79.3,69.6,6.3,No,Yes,Bachelor's,1,67.7
+STU1034,Rahul Nair,F,18,7.8,N/A,64.2,7.1,No,Yes,Bachelor's,2,81.0
+STU1035,Aditya Patel,Female,18,,91.1,90.6,7.2,NO,Y,Bachelor's,1,85.8
+STU1036,  Pooja Malhotra  ,Male,18,3.6,75.6,28.2,7.6,Yes,Yes,High School,3,53.9
+STU1037,Pari Reddy,Male,18,4.8,75.1,84.4,9.2,No,Yes,Master's,1,82.8
+ STU1038,Aadhya Kumar,Female,17,missing,78.7,86.7,6.6,Yes,Yes,High School,0,88.9
+STU1039,Sai Kumar,Male,17,N/A,54.4%,36.9,5.8,Yes,Yes,PhD,1,51.4
+STU1040,Ananya Joshi,Male,15,6.8,63.8%,999,5.1,0,Yes,bachelor's,3,68.5
+STU1041,Kabir Reddy,Male,18,4.5,98.4,N/A,5.9,Yes,Yes,Bachelor's,2,92.7
+STU1042,Neha Gupta, female,15,2.5,100.0,46.9,6.8,No,No,Bachelor's,2,69.3
+STU1043,kavya mehta,f,18,5.4,79.0,56.3,9.0,Yes,Yes,Master's,1,76.8
+STU1044,Navya Patel,Male,18,4.9,88.9,51.3,6.2,No,Yes,Bachelor's,0,69.6
+STU1045,Sai   Chopra,Female,17,3.3,85.7%,94.3,7.1,Yes,Yes,,4,91.5
+STU1046,Pari Reddy,F,17,4.6 hrs,100.0,82.0,6.8,No,Yes,High School,2,91.4
+STU1047,Nidhi Agarwal,Female,16,3.7h,95.4,87.1,8.2,No,Yes,none,2,91.8
+STU1048,Ayaan Singh,Female,17,4.7,80.5,78.8,9.8,Yes,Yes,High School,0,85.9
+STU1049,Vikram Verma,Male,16,5.8 hrs,70.5,51.1,6.2,Yes,No,Master's,1,67.9
+STU1050,Ayaan Verma,f,16,7.7,62.7,60.1,6.2,NO, Yes ,Bachelors,1,76.8
+STU1051,Sneha Singh,Female,16,2.0,84.4,75.3,8.1,No,1,phd,2,74.6
+STU1052,Pari   Reddy,Female,16,8.8,72.9,49.7,missing,Yes,Yes,High School,120,78.2
+STU1053,Aditya Joshi,Female,16,0.6,64.9,78.7,9.0,No,Yes,High School,3,75.1
+STU1054,Nidhi Iyer,Female,15,4.2,74.2,64.4,7.5,No,Yes,Master's,3,78.4
+STU1055,Amit Singh,Female,17,5.7,69.0%,62.4,6.4,Yes,Yes,none,0,59.4
+STU1056,Reyansh Kapoor,Male,16,5.1,100.0,78.7,7.5,No,Yes,High School,3,94.4
+STU1057,Pari Chopra,F,18,3.3,92.6,74.7,8.1,No,No,High School,0,77.1
+STU1058,Arjun Reddy,Male,17,4.1,81.9,62.6,7.8,Yes,Yes,None,2,75.3
+STU1059,Arjun Patel,Male,17,3.5,99.8,null,7.4,Yes,Yes,Master's,2,86.0
+STU1060,Priya Agarwal,Female ,16,3.3,82.9,51.8,8.1,Yes,Yes,Bachelor's,1,72.1
+STU1061,Navya Reddy,Male,15,6.2,71.7,77.2,5 hrs,No,Yes,High School,4,93.8
+STU1062,Priya Iyer,Female,16,5.2h,100.0,76.9,8.5,No,Yes,Bachelor's,2,87.1
+STU1063,Myra Iyer,Male,15,3.1,88.5,63.4,7.6,No,y,Master's,2,75.8
+STU-1064,Pari Kumar,Male,18,6.3,69.6,72.9,6.6,No,Yes,Bachelor's,2,78.3
+STU1065,Ayaan Bhatia,Female,17,5.1,79.7,49.2,7.0,No,Yes,High School,1,63.4
+STU1066,Anika Kapoor,Male,18,6.1,71.5,81.9,8.2,No,Yes,High School,0,82.4
+STU1067,Aditya Verma,Female,15,5.8,65.4,65.2,5.8,No,Yes,missing,0,76.5
+STU1068,Pooja Malhotra,Male,15,2.8,93.1%,60.2,7.2,yes,No,Bachelor's,2,74.5
+STU1069,Arjun Mehta,m,18,3.4,100.0,83.7,6.3,Yes,Yes,Master's,2,87.8
+STU1070,Sneha Roy,Female,15,6.0,65.2,57.4,6.8,no,Yes,High School,4,80.1
+stu1071,Kavya Gupta,Male,18,5.7,,46.9,8.3,Yes,Yes,High School,3,79.5
+STU1072,PARI DAS,F,17,4.5,74.2,44.7,7.0,No,Yes,High School,2,62.9
+STU1073,KAVYA CHOPRA,M,18,4.7,76.2,77.1,6.9,No,Yes,None,0,80.3
+STU1074,ANIKA REDDY,Female,17,7.1,74.9,48.8,5.2,Yes,No,High School,2,75.7
+STU1075,Navya Sharma,Female,18,3.3,71.6,94.3,7.7,Yes,Yes,Master's,1,86.3
+STU1076,Kabir Malhotra,Female,15,5.6,82.6,36.8,7.6,No,Yes,Bachelor's,1,72.3
+STU1077,Kabir Agarwal,Male,18,4.1,72.0,93.4,9.4,NO,Yes,Bachelor's,4,N/A
+STU1078,Rahul Reddy,Male,15,4.1,85.2,71.2,6.4,Yes,no,High School,2,80.1
+STU1079,Rahul Singh,Male,18,6.7,81.4,66.5,7.1,No,Yes,High School,1,87.8
+STU1080,Vihaan Nair,Female,18,6.2,79.1,59.8,7.1,Yes,Yes,Bachelor's,2,79.2
+STU1081,Myra Mehta,Female,16,6.1 hrs,71.1,74.0,8.7,Yes,No,Master's,2,79.2
+STU1082,Aadhya Sharma,Male,15,7.1,75.1,67.4,seven,No, Yes ,Bachelor's,1,82.0
+STU1083,Priya Reddy,m,16,4.5,91.1,84.5,missing,No,Yes,B.Sc,1,83.2
+STU1084,Anika Mehta,MALE,15,N/A,88.0,69.7,7.5,Yes,YES,High School,3,84.0
+STU1085,Anika Malhotra,Male,16,3.9,N/A,70.3,7.0,No,Yes,None,4,76.7
+STU1086,Pooja Nair,Female,17,5.1,83.2,62.5,6.3,No,Yes,Master's,1,72.1
+STU1087,Vikram Jain,Female,18,4.2,91.0,67.1,7.0,No,n,High School,1,76.2
+STU1088,Kavya Joshi,Female,15,4.7,62.0,72.6,8.1,No,NO,None,0,65.6
+STU1089,Arjun Kumar,Male,15,5.7,88.5,42.3,5.6,No,Yes,Bachelor's,1,70.0
+STU1090,Rahul Mehta,Other/Unknown,18,?,-10.0,47.8,7.0,No,Yes,Bachelor's,2,62.0
+stu1091,Navya Jain,Female,15,8.7,88.8,79.1,6.0,No,Yes,N/A,2,
+STU1092,Nidhi Sharma,Female,15,2.5,72.8,70.6,8.2, Yes ,No,Master's,0,70.0
+stu1093,Kavya Singh,Female,16,2.1,60.3,65.2,5.0,Yes,Yes,Bachelor's,0,62.9
+STU1094,Saanvi   Sharma,Female,15,6.8,62.5,68.3,6.1,Yes,Yes,High School,1,71.1
+STU1095,Vihaan Kumar,Male,17,6.1,82.6,73.2,7.3,No,Yes,Bachelor's,5,87.2
+STU1096,Amit Nair,Female,17,5.7,85.1,59.9,8.7,Yes,No,PhD,3,77.1
+STU1097,Ayaan Verma,Male,18,5.8,71.1,56.3,6.7,No,No,High School,1,66.3
+STU1098,Ayaan Iyer,Male,15,4.5,89.7,70.9,6.1,No,Yes,Bachelor's,2,84.2
+STU1099,Aditya Gupta,Male,18,2.7,62.1,53.3,9.1,NO,Yes,null,1,60.8
+STU1100,Priya Kapoor,Male,17,45.0,81.2,74.1,5.1,No,Yes,Bachelor's,1,76.6
+STU1101,Vikram Gupta,Female,15,3.1,67.5,42.5,4.2,No,Yes,Bachelor's,2,
+STU1102,Rahul Agarwal,Male,15,6.5,74.2,83.4,7.3,No,Yes,bachelor's,3,94.3
+STU-1103,Rahul Bhatia,Male,18,4.2,82.6,75.1,,Yes,Yes,bachelor's,1,72.6
+STU1104,Arjun Kapoor,Female,17,2.8,71.7,71.8,5.6,No,Yes,High School,2,70.6
+STU1105,Navya Mehta,Male,15,3.9,77.4,82.7,N/A,No,Yes,High School,2,83.8
+STU1106,Krishna Jain,Male,18,5.3,94.1,93.0,7.1,No,Yes,Master's,0,98.3
+STU1107,Pooja Menon,Female,17,3.4,75.1,83.2,6.1,yes,Yes,Bachelor's,2,72.9
+STU1108,Myra Joshi,Male,18,2.9,92.0,null,5.3,no,Yes,N/A,1,46.2
+STU1109,Nidhi Agarwal,Male,16,5.0,68.4,48.8,six,No,Yes,Master's,1,68.0
+STU1110,Rahul Joshi,Male,15,5.0,88.4,58.6,7.6,No,Yes,Master's,1,84.4
+STU1111,Neha Nair,Male,16,3.5,99.3,68.4,6.7,No,Yes,M.Sc,1,83.3
+STU1112,Pari Kumar,Female,-17,3.6,52.3,75.8,9.0,n,Yes,PhD,0,71.5
+STU1113,Aadhya Jain,Female,165,?,72.4,57.1,5.5,No,No,High School,5,71.1
+STU1114,Aadhya Malhotra,Female,16,1.6,88.9,70.8,5.0,No,Yes,N/A,0,70.3
+STU1115,ayaan patel,Female,17,1.7,79.6%,56.7,6.0,No,0,Bachelor's,1,56.6
+ STU1116,Aditya Singh,Female ,18,3.1,86.5,58.8,six,Yes,Yes,Master's,0,69.5
+stu1117,Aarav Iyer,male,16,4.1,74.8,46.9,7.1,No, Yes ,Master's,4,71.0
+STU1118,Navya   Patel,Female,18,5.1,83.0%,54.2,,Yes,Yes,Master's,2,78.4
+stu1119,Angel Patel,Female,16,7.5,80.1,47.7,7.2,No,Yes,Bachelor's,0,87.8
+STU1120,Aarav Gupta,Female,18,6.2,96.0,53.4,5.3,NO,No,,5,83.0
+STU1121,Neha Verma,Female,17,4.2,85.1,83.8,5 hrs,No,Yes,Bachelor's,1,83.0
+STU1122,Ayaan   Gupta,M,16,4.5,86.1,53.8,6.7,No,No,None,2,70.4
+STU1123,Amit Verma,Male,17,2.5,77.1%,98.0,28.0,Yes,No,PhD,3,76.8
+STU1124,Pooja Singh,Male,16,4.5,76.1,75.4,7.2,n,Yes,High School,2,77.1
+STU1125,ADITYA JAIN,Male,17,3.9,76.8%,70.8,7.3,No,No,High School,1,71.2
+STU1126,Ayaan Reddy,Female,17,missing,86.7,N/A,7.5,No,n,High School,1,72.2
+STU1127,Kabir Kapoor,Female,16,,76.9,78.5,7.3,No,Yes,Master's,4,80.2
+STU1128,Reyansh Agarwal, female,16,5.5,85.5,59.4,7.6,No,Yes,high school,1,73.9
+STU1129,Arjun Iyer,Male,16, 7.6 ,100.0,69.8,8.4,1, Yes ,High School,1,96.5
+STU1130,Angel Kapoor,M,15,4.3,92.5,98.0,7.0,No,No,Bachelor's,1,90.2
+STU1131,Ayaan Kapoor,Male,18,5.3,78.1,66.6,7.7,No,Yes,Master's,0,76.9
+STU1132,Sneha Roy,Male,15,5.9,96.4,85.2,6.7,Yes,Yes,Master's,2,92.2
+STU1133,Reyansh Malhotra,Male,15,3.7,77.1,57.5,8.5,No,Yes,Bachelor's,1,70.5
+STU1134,VIHAAN ROY, female,17,4.9,57.5,67.5,6.0,No,Yes,Bachelor's,1,74.2
+STU-1135,Ananya Roy,Male,16,4.5,69.9,,9.0,No,Yes,N/A,0,82.4
+STU1136,  Myra Chopra  ,Male,18,4.7 hrs,59.6%,missing,6.8,No,Yes,High School,1,64.3
+STU1137,Pooja Verma,Female,17,3.0,77.8,95.2,5.1,No,Yes,Masters,0,78.1
+STU1138,Kabir Malhotra,Male,15,4.5,82.2,78.6,7.0,No,Yes,Bachelor's,0,74.0
+STU1139,Vivaan Das,Female,16,5.5,100.0%,59.6,6.0,Yes,No,Master's,0,72.3
+STU1140,Priya   Singh,Female,17,7.4,85.9,77.5,7.8,No,Yes,Bachelor's,0,missing
+STU1141,Sneha Malhotra,Male,16,6.4,79.4,82.6,5 hrs,Yes,NO,Master's,2,93.0
+STU1142,Ayaan Joshi,Male,17,8.8,92.0,77.3,6.3,Yes,Yes,High School,1,97.6
+STU1143,Reyansh Agarwal,Male,16,3.0,55.5,missing,4.5,Yes,No,Bachelor's,2,52.3
+STU1144,Aadhya Bhatia,Male,15,6.2,84.8,57.1,6.3,0,No,High School,1,79.0
+STU1145,Myra Mehta,Male,18,4.9,,64.3,3.9,No,Yes,High School,1,74.6
+STU1146,Krishna Chopra,Female,15,8.9,64.3,66.9,4.9,Yes,Yes,Master's,4,89.8
+STU1147,Ayaan Gupta,Male,18,2.9,95.7,77.3,7.7,No,Yes,None,1,79.5
+STU1148,Aadhya Agarwal,Male,16,2.8,86.1,70.7,7.7,Yes,Yes,High School,1,75.5
+STU1149,Vihaan Verma,MALE,17,3.3,77.0%,,7.3,no,Yes,Bachelor's,3,N/A
+STU1150,ROHAN AGARWAL,Female,15,0.5,89.6,73.7,5 hrs,Yes,Yes,Master's,3,58.9
+STU1151,Vikram Sharma,Male,18,3.4,100.0,77.2,6.7,Yes,Yes,High School,1,80.9
+STU1085,ANIKA MALHOTRA,Male,16,3.9,N/A,70.3,7.0,No,Yes,None,4,76.7
+STU1104,Arjun Kapoor,Female,17,2.8,71.7,71.8,5.6,No,Yes,High School,2,70.6
+STU1154,Saanvi Kapoor,Female,15,?,76.5,80.5,8.6,No,Yes,Bachelor's,1,89.3
+STU1155,Reyansh Das,Male,18,8.3,71.8,74.9,7.9,No,Yes,High School,1,96.0
+STU1156,Amit Verma,Female,18,6.4,92.0%,-25,6.5,Yes,No,Bachelor's,2,84.1
+STU1157,Sai Das,M,16, 3.3 ,71.7,43.1,6.8,yes,Yes,Master's,0,58.2
+STU1023,Kavya Reddy,Male,17,3.5,72.5%,68.9,null,Yes,Yes,N/A,1,71.0
+STU1159,Krishna Chopra,Female,99, 5.5 ,76.3,71.1,4.3,No,Yes,High School,1,75.5
+STU1160,ishaan roy,Male,18,1.9,87.7,72.1,-2.0,Yes,Yes,Masters,0,72.4
+STU1161,Neha Agarwal,Female,17,8.2,86.0,48.8,6.0,Yes,Yes,bachelor's,5,91.2
+STU1121,NEHA VERMA,Female,17,4.2,85.1,83.8,5 hrs,No,Yes,Bachelor's,1,83.0
+STU1163,Arjun Joshi,Female,17,3.6,75.9,N/A,6.5,1,Yes,High School,1,76.8
+STU1164,Ishaan   Joshi,Male,18,1.1,78.8%,67.4,7.5 hours,No,no,None,0,65.5
+STU1165,Vivaan Iyer,Female,16,7.2,70.3,78.2,7.6,No,Yes,Bachelor's,1,90.4
+STU1166,Priya Agarwal,Male,16,4.3,76.7,68.4,6.1,No,Yes,Bachelor's,2,68.9
+STU1167,Vivaan Singh,Male,18,7.0,86.5%,68.4,7.5,No,Yes,High School,0,74.7
+STU1168,Vivaan Verma,Male,17,1.3,91.1,82.1,8.5,No,Yes,Bachelor's,1,74.3
+STU1169,Angel Kapoor,male,17,3.3,missing,60.3,7.9,No,Yes,Master's,4,66.6
+STU1170,Anika Jain,Female,16,4.5,92.4,69.4,6.9,No,Yes,none,1,77.5
+STU1171,Sai Verma,Male,17,4.6,98.3,61.1,6.0,Yes,Yes,Bachelor's,2,77.7
+STU1055,Amit Singh,Female,17,5.7,69.0%,62.4,6.4,Yes,Yes,none,0,59.4
+STU1173,Pooja   Mehta,Male,16,5.7,100.0,63.4,7.3,yes,No,Master's,1,87.8
+STU1174,Aditya Menon,Female,17,2.4,missing,71.3,7.9,No,Yes,Master's,1,-12.0
+STU1175,Aditya Patel,Male,16,4.2,67.1,60.8,7.6,No,no,M.Sc,2,72.3
+STU1176,Pari Malhotra,Female,15,4.7,60.7,86.8,8.1,Yes,No,Bachelor's,0,81.0
+stu1177,Amit Iyer,Male,16,5.5,100.0%,54.6,6.2,No,1,Bachelor's,1,72.4
+STU1178,Ayaan Iyer,Female,16,5.9,89.9,65.2,8.4,Yes,Yes,Bachelor's,2,89.6
+STU1179,Kavya   Verma,Male,16,2.3 hrs,81.3,61.4,5 hrs,No,Yes,High School,0,150.0
+STU1180,Kavya Gupta,M,16,1.4,85.4,89.7,9.3,Yes,Yes,M.Sc,2,84.4
+STU1181,Myra Iyer,Female ,15,7.1h,68.5,70.9,6.0,Yes,Yes,phd,0,75.5
+STU1182,Angel Jain,Female,18,5.2,100.0,83.5,8.9,n,Yes,Bachelors,1,85.5
+STU1183,Diya Reddy,Female,16,3.0,83.6,45.7,7.0,Yes,Yes,HighSchool,2,67.4
+STU1092,Nidhi Sharma,Female,15,2.5,72.8,70.6,8.2, Yes ,No,Master's,0,70.0
+STU1028,Aditya Agarwal,m,15,2.6,100.0,59.4,7.0,No,YES,Bachelor's,0,72.5
+STU1186,Pari Bhatia,Female,16,6.9,87.8,69.2,6.4,No,y,Bachelor's,1,81.8
+STU1187,Kabir   Nair,m,17,4.6,84.7,84.0,7.3,No,Yes,,2,91.8
+STU1042,Neha Gupta, female,15,2.5,100.0,46.9,6.8,No,No,Bachelor's,2,69.3
+STU1189,Nidhi Gupta,Male,15,-3.5,87.7,89.1,6.1,No,Yes,Bachelor's,0,100.0
+STU1190,aarav chopra,m,15,,100.0,98.0,6.8,No,Yes,Bachelor's,1,88.8
+STU1191,Kavya Iyer,Female,18,,98.1,62.6,9.4,Yes,Yes,Bachelor's,0,88.4
+STU1192,Vihaan Gupta,Female,15,5.8 hrs,100.0,61.3,8.9,y,Yes,Bachelor's,2,84.5
+STU1193,Navya Joshi,Female,18,7.2,75.9,89.8,5 hrs,0,No,HS,-4,94.7
+STU1032,NEHA GUPTA,Male,15,4.0,80.7,57.3,6.1, Yes ,Yes,Master's,4,78.5
+STU1195,Arjun Kumar,Male,18,5.9,80.5,60.2,6.9,No,Yes,Master's,4,81.0
+ STU1196,Amit Gupta,Female,15,6.6,82.7,61.7,7.5,Yes,Yes,Bachelor's,1,N/A
+STU1197,Amit Patel,Female,17,1.0,95.1,63.8,5.6,No,Yes,High School,1,60.8
+STU1044,NAVYA PATEL,Male,18,4.9,88.9,51.3,6.2,No,Yes,Bachelor's,0,69.6
+STU1199,Sai Chopra,Female,16,0.5,100.0,54.2,4.8,Yes,Yes,Bachelor's,1,
